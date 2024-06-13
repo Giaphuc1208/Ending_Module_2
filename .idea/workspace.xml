@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="710818d7-a6e2-4297-9574-932b91bafe57" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ThiCuoiModule2/src/student.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C03/CaseStudyModule2/src/controllers/BookingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../C03/CaseStudyModule2/src/controllers/BookingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C03/CaseStudyModule2/src/controllers/RoomController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../C03/CaseStudyModule2/src/controllers/RoomController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C03/CaseStudyModule2/src/repositories/data/room.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../C03/CaseStudyModule2/src/repositories/data/room.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C03/CaseStudyModule2/src/repositories/repodata/RoomRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../C03/CaseStudyModule2/src/repositories/repodata/RoomRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C03/CaseStudyModule2/src/views/ViewApartment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../C03/CaseStudyModule2/src/views/ViewApartment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductMVC/product/src/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductMVC/product/src/model/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThiCuoiModule2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ThiCuoiModule2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThiCuoiModule2/src/StudentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/ThiCuoiModule2/src/StudentManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankacount/bankaccount/src/controller/inter_iml/iml/ChargeAccountIml.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bankacount/bankaccount/src/controller/inter_iml/iml/ChargeAccountIml.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bankacount/bankaccount/src/controller/validate/Regex.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bankacount/bankaccount/src/controller/validate/Regex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../regex&amp;string/regex_string/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../regex&amp;string/regex_string/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../regex&amp;string/regex_string/src/exercise_1/PhoneNumberExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../regex&amp;string/regex_string/src/exercise_1/PhoneNumberExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../regex&amp;string/regex_string/src/exercise_1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../regex&amp;string/regex_string/src/exercise_1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../regex&amp;string/regex_string/src/exercise_2/NameClassExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../regex&amp;string/regex_string/src/exercise_2/NameClassExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../regex&amp;string/regex_string/src/exercise_2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../regex&amp;string/regex_string/src/exercise_2/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../regex&amp;string/regex_string/src/practice_1/EmailExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../regex&amp;string/regex_string/src/practice_1/EmailExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../regex&amp;string/regex_string/src/practice_1/EmailExampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../regex&amp;string/regex_string/src/practice_1/EmailExampleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../regex&amp;string/regex_string/src/practice_2/AccountExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../regex&amp;string/regex_string/src/practice_2/AccountExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../regex&amp;string/regex_string/src/practice_2/AccountExampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../regex&amp;string/regex_string/src/practice_2/AccountExampleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testexam/case2/src/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../testexam/case2/src/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testexam/case2/src/controller/BookingServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../testexam/case2/src/controller/BookingServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testexam/case2/src/controller/FacilityServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../testexam/case2/src/controller/FacilityServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testexam/case2/src/model/blueprint/BluePrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../testexam/case2/src/model/blueprint/BluePrint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testexam/case2/src/model/blueprint/GardenViewStudio.java" beforeDir="false" afterPath="$PROJECT_DIR$/../testexam/case2/src/model/blueprint/GardenViewStudio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testexam/case2/src/model/blueprint/StudioDeluxe.java" beforeDir="false" afterPath="$PROJECT_DIR$/../testexam/case2/src/model/blueprint/StudioDeluxe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testexam/case2/src/model/blueprint/SuiteStudio.java" beforeDir="false" afterPath="$PROJECT_DIR$/../testexam/case2/src/model/blueprint/SuiteStudio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testexam/case2/src/model/guest/Guest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../testexam/case2/src/model/guest/Guest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testexam/case2/src/repositories/ReadAndWriteToCSVFacility.java" beforeDir="false" afterPath="$PROJECT_DIR$/../testexam/case2/src/repositories/ReadAndWriteToCSVFacility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testexam/case2/src/repositories/data/dukeCasaApartment.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../testexam/case2/src/repositories/data/dukeCasaApartment.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testexam/case2/src/service/intef/BookingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../testexam/case2/src/service/intef/BookingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testexam/case2/src/service/validate/RegexDesign.java" beforeDir="false" afterPath="$PROJECT_DIR$/../testexam/case2/src/service/validate/RegexDesign.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testexam/case2/src/views/BookingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../testexam/case2/src/views/BookingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testexam/case2/src/views/DukeCasaApartment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../testexam/case2/src/views/DukeCasaApartment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testexam/case2/src/views/FacilityController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../testexam/case2/src/views/FacilityController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testexam/case2/src/views/GuestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../testexam/case2/src/views/GuestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testexam/case2/src/views/StaffController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../testexam/case2/src/views/StaffController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ThiCuoiModule2" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2hoC92gy9SSRNk5B6mpt4PGrN6c" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Dowload/Module2/baitap/Thi_Cuoi_Module_2",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-22-openjdk-22-4caba194b151-f504ca98" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="710818d7-a6e2-4297-9574-932b91bafe57" name="Changes" comment="" />
+      <created>1718250887550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718250887550</updated>
+      <workItem from="1718250888606" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
